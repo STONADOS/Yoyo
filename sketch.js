@@ -37,7 +37,7 @@ function setup() {
     lava = new Lava(700, 670, 14000, 70);
     invi = new invis();
     floor = new Ground(700, 610, 1400, 35);
-    ball = new Ball(50, 600, 55);
+    ball = new Ball(50, 600, 85);
     enemy1 = new enemy();
     enemy2 = new enemy();
     enemy3 = new enemy();
